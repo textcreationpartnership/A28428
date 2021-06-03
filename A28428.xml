@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the five orders of columnes and tearms of architecture according to the ancient use and best rules of the most eminent Italian architects, viz. : the tuscan, dorick, ionick, corinthian and composite / drawn and described (with great care and diligence) after the right symmetry and measure of free masons by Hans Bloome.</title>
+            <author>Blum, Hans, fl. 1567.</author>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28428</idno><idno type="EEBO-CITATION">13109537</idno>
+  <idno type="VID">97605</idno>
+  <idno type="EEBO-PROQUEST">2240859436</idno>
+  
+            <idno type="STC">Wing B3295A</idno>
+            <idno type="STC">ESTC S122425</idno>
+            <idno type="OCLC">13109537</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A28428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97605)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1543:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of the five orders of columnes and tearms of architecture according to the ancient use and best rules of the most eminent Italian architects, viz. : the tuscan, dorick, ionick, corinthian and composite / drawn and described (with great care and diligence) after the right symmetry and measure of free masons by Hans Bloome.</title>
+                  <author>Blum, Hans, fl. 1567.</author>
+               </titleStmt>
+               <extent>[24] leaves : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[W. Fisher and Overton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>"For the use and benefit of free masons, carpenters, joyners, carvers, painters, bricklayers; in general, for all that are concerned in the famous art of building."</note>
+                  <note>Published and date of publication suggested by Wing.</note>
+                  <note>Imperfect: pages cropped and torn with loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Architecture --  Orders.</term>
+               <term type="topical_term">Architecture --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97605:1"/>
+            <pb facs="tcp:97605:1"/>
+            <p>A DESCRIPTION Of the Five ORDERS of Columnes and Tearms OF ARCHITECTURE: According to the ancient Use and best Rules of the most eminent Italian Architects, viz. The Tuscan, Dorick, Ionick, Corinthian and Composite.</p>
+            <figure>
+               <figDesc>Engraving of an assortment of architectural tools and drawing instruments, including a pair of calipers and a plumb rule.</figDesc>
+            </figure>
+            <p>Drawn and Described (with great Care and Diligence) after the right Symmetry and Measure of Free Masons By HANS BLOOME.</p>
+            <p>For the Use and Benefit of Free Masons, Carpenters, Joyners, Carvers, Painters, Bricklayers; In general, for all that are Concerned in the famous Art of Building.</p>
+            <p>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> LONDON <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="glossary">
+            <pb facs="tcp:97605:2"/>
+            <pb facs="tcp:97605:2"/>
+            <head>An Alphabetical Table of the several difficult Words Explained.</head>
+            <list type="glossary">
+               <item>A
+<list>
+                     <item>A <hi>Stragulus</hi> a bottle and fillet in any part of the pillar.</item>
+                     <item>
+                        <hi>Abacus,</hi> the top of <hi>Ionicka,</hi> or <hi>Corinthian</hi> head.</item>
+                     <item>
+                        <hi>Annuli,</hi> or <hi>Apohiges,</hi> when three fillets come together, one under another.</item>
+                  </list>
+               </item>
+               <item>B
+<list>
+                     <item>
+                        <hi>Basis,</hi> all the moulding or foot of the pe<g ref="char:EOLhyphen"/>destal.</item>
+                  </list>
+               </item>
+               <item>C
+<list>
+                     <item>
+                        <hi>Cimatium,</hi> that which some call in English an O. G.</item>
+                     <item>
+                        <hi>Canolicoli,</hi> are the Flutes in Trigliphi.</item>
+                     <item>
+                        <hi>Cornonix,</hi> all the moulding standing over the square of the Pedestal.</item>
+                     <item>
+                        <hi>Corona,</hi> a broad plinth in the cornish be<g ref="char:EOLhyphen"/>tween two Cimatium.</item>
+                     <item>
+                        <hi>Contractura,</hi> the breaking of the pillar.</item>
+                     <item>
+                        <hi>Caulis,</hi> the coddes out of which the Helices grow in the <hi>Corinthian</hi> head.</item>
+                     <item>
+                        <hi>Deuticuli,</hi> a broad plinth in the cornish cut with dents.</item>
+                  </list>
+               </item>
+               <item>E
+<list>
+                     <item>
+                        <hi>Echinus,</hi> a bottle cut with edges.</item>
+                     <item>
+                        <hi>Epistilium,</hi> the Architrave.</item>
+                  </list>
+               </item>
+               <item>F
+<list>
+                     <item>
+                        <hi>Facia,</hi> a broad fillet whereof there are three in the Architrave.</item>
+                  </list>
+               </item>
+               <item>G
+<list>
+                     <item>
+                        <hi>Gutta,</hi> are drops sometime round, some<g ref="char:EOLhyphen"/>time in Triangle fashion.</item>
+                  </list>
+               </item>
+               <item>H
+<list>
+                     <item>
+                        <hi>Hipòtrachelium,</hi> the nack of the Capital.</item>
+                     <item>
+                        <hi>Helices,</hi> are the scrowles in the <hi>Corinthian</hi> head, being in number 8.</item>
+                  </list>
+               </item>
+               <item>I
+<list>
+                     <item>
+                        <hi>Icnographia,</hi> is the ground plat.</item>
+                  </list>
+               </item>
+               <item>L
+<list>
+                     <item>
+                        <hi>Licis,</hi> or <hi>Sima,</hi> the <hi>Cimatium</hi> turned upward.</item>
+                  </list>
+               </item>
+               <item>M
+<list>
+                     <item>
+                        <hi>Mutils,</hi> that which we commonly call in English a Cartouse.</item>
+                     <item>
+                        <hi>Modulus,</hi> half the thickness of the Pillar.</item>
+                  </list>
+               </item>
+               <item>P
+<list>
+                     <item>
+                        <hi>Plinthus,</hi> commonly called in English a plinth.</item>
+                     <item>
+                        <hi>Projectura,</hi> the sail of every moulding.</item>
+                  </list>
+               </item>
+               <item>R
+<list>
+                     <item>
+                        <hi>Regula,</hi> any small fillet.</item>
+                  </list>
+               </item>
+               <item>S
+<list>
+                     <item>
+                        <hi>Scapus,</hi> the body of the Pillar.</item>
+                     <item>
+                        <hi>Spira,</hi> the base of the Pillar.</item>
+                     <item>
+                        <hi>Stilobata,</hi> the Pedestal.</item>
+                     <item>
+                        <hi>Scotia</hi> a hollow casement.</item>
+                     <item>
+                        <hi>Supercilium,</hi> a small fillet in the top of the cornish.</item>
+                     <item>
+                        <hi>Semicanolicola,</hi> half Flutes on each side Trigliphi.</item>
+                     <item>
+                        <hi>Stria,</hi> the flat lying between the Flutes.</item>
+                  </list>
+               </item>
+               <item>T
+<list>
+                     <item>
+                        <hi>Torus,</hi> any bottle.</item>
+                     <item>
+                        <hi>Trigliphi,</hi> a kind of ornament in the frise.</item>
+                     <item>
+                        <hi>Trochilus,</hi> the same with Scotia.</item>
+                     <item>
+                        <hi>Tenia,</hi> the top of the Pillar.</item>
+                     <item>
+                        <hi>Trebeatio,</hi> the highest top of the Cornish.</item>
+                  </list>
+               </item>
+               <item>V
+<list>
+                     <item>
+                        <hi>Voluta,</hi> the <hi>Ionick</hi> scroul.</item>
+                  </list>
+               </item>
+               <item>Z
+<list>
+                     <item>
+                        <hi>Zophorus,</hi> the frise.</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="architectural_order">
+            <pb facs="tcp:97605:3"/>
+            <pb facs="tcp:97605:3"/>
+            <p>
+               <figure>
+                  <head>Tuscan.</head>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in the Tuscan style.</figDesc>
+                  </figure>
+                  <p>The whole height of this Pillar devide in 9 parts, giue 2 of those parts to Sti<g ref="char:EOLhyphen"/>lobata with Basis and vpper Cimatium deuide the 2 parts into 6, as you may see on the right side of Stilobata, 1 of y<seg rend="sup">e</seg> 6 parts is for Basis Cimatium, 1 other to Sti<g ref="char:EOLhyphen"/>lobata Cimatium, deuided into 6 parts, the 4 remaining maketh y<seg rend="sup">e</seg> square of the great Basse, crossed with 2 Diagonall lynes: In this great square is made a Circle, and observ: where y<seg rend="sup">e</seg> Circle crosseth the Diagonall lynes, there make another Squave: in which square y<seg rend="sup">u</seg> must make another Circle, whose circumfe<g ref="char:EOLhyphen"/>rence must touch the side of the said sqv<g ref="char:EOLhyphen"/>are, being y<seg rend="sup">e</seg> thicknesse of Scapi Cimatium, the space betweene y<seg rend="sup">e</seg> 2 squares, is to be for the standing forth of the fore Scapi Cimatium; the last Square sqoken of, deuide into 8 parts giue 6 of those parts to another circle, wh<g ref="char:EOLhyphen"/>ich is the bignesse of Scapi at Tenia or top of y<seg rend="sup">e</seg> Pillar, the great square Basis at Cimati<g ref="char:EOLhyphen"/>vm; devide into 7. parts, giue 1 to y<seg rend="sup">e</seg> Proie<g ref="char:EOLhyphen"/>ctura of Basis Cimatium, as apeares on the left side, which also maketh the height of Ci<g ref="char:EOLhyphen"/>matium aforesaid on the right side in 2 equall parts; 1 of these 2 deuide in 4 give the last of the 4. to Regula Basis; the first of the 4. deuide in 2. one of these parts is for the S<g ref="char:EOLhyphen"/>mall Regula vnder Sima or Lisis, then Si<g ref="char:EOLhyphen"/>ma it selfe will be made in a true Square,</p>
+                  <p>Stilobata Cimatium deuide in 4 par<g ref="char:EOLhyphen"/>ts, one wherof giue Sima, 2 other to Plinthus, the last fourth part deuide in to 3, giue 2 for Astragulus. the other 2 are for Regula,</p>
+                  <p>Scapi Cimatium, standing vpon Stilo<g ref="char:EOLhyphen"/>bata, whose height is one Modulus of the Pillar, deuide in 2 parts, as appeareth on the right side of Scapi Cimatium, one of which parts is for Plinthus, the other de<g ref="char:EOLhyphen"/>uide in 3. giue Torus 2 and 1 to Regula,</p>
+                  <p>The height of Scapus is 6 times the thicknesse of the Pillar with his Scapi Cimatium and Capi<g ref="char:EOLhyphen"/>tall, as you may see on the right side; the Ca<g ref="char:EOLhyphen"/>pitall must be the same Modulus as is Scapi-Cimatium, which Modulus deuide in 3 parts, giue 1 to Abacus, another to Echin<g ref="char:EOLhyphen"/>us, whose fourth part maketh Regula vn<g ref="char:EOLhyphen"/>der Echinus: the last third part is for Hy<g ref="char:EOLhyphen"/>potrachelium:
+<pb facs="tcp:97605:4"/>
+                     <pb facs="tcp:97605:4"/> which part of Hypotrach<g ref="char:EOLhyphen"/>elyum deuide in 2, obserue the mark x one of the<g ref="char:EOLunhyphen"/>se parts giue Tenia, that part of Thaideuide in 3. gi<g ref="char:EOLhyphen"/>ve 2 to Astragulus, the third to Regula, one 8 part of the thicknesse of Scapus must be the Proiect<g ref="char:EOLhyphen"/>ura of the Capitall and Tenia must be made in a true square,</p>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in the Tuscan style.</figDesc>
+                  </figure>
+                  <p>Epistilium vpon the Capitall, is the same Modulus, which devide in 6 parts as appear<seg rend="sup">s</seg> on the right side, give 1 part to Sima being ma<g ref="char:EOLunhyphen"/>de true square, now for the left side, devide y<seg rend="sup">t</seg> 1 part of Sima into 3. give 1 to Regula above Sima. the 2 for y<seg rend="sup">e</seg> Cornish, y<seg rend="sup">e</seg> other 5 deuide in 9 giue 5 parts to the vp̄er Facia, and 4 to the lower Facia,</p>
+                  <p>Zophorus standeth vpon Epistilium, and is of the same height, The great Trabeatio st<g ref="char:EOLhyphen"/>andeth Vpon Zophorus of the same height also, So that from the top of the Capitall to the h<g ref="char:EOLhyphen"/>ighest part of Trabeatio is 3 euen parts, such as is Scapi Cimatium, and his Proiectura m<g ref="char:EOLhyphen"/>ust be as much as one of those parts,</p>
+                  <p>Trabeatio deuide in 4 parts, the first of those devide in 3 parts, giue 1 to Regula and 2 to Sima; giue 2 other of those parts to Corona: and the last 4 parts deuide againe into 4, giue 3 to Torus, and one to Regula as appea<g ref="char:EOLhyphen"/>reth on the right side,</p>
+                  <p>Corona which containeth 2 parts in height, &amp; of the same Proiectura deuide into eleven, gi<g ref="char:EOLhyphen"/>ue, Regula 2, and 1 to Canaticulus, as appeareth on the lest side 3 of these may bee for the bredth and 3 such parts for the depth, the Contra<g ref="char:EOLhyphen"/>ctura of Scapus you may make after this man̄er, deuide the pillar into 6 parts, bet<g ref="char:EOLhyphen"/>weene Tenia and Scapi Cimatium, vpon the second lower part, which is the third pa<g ref="char:EOLhyphen"/>rt of his height; make a circle to the outward part of Scapus, and obserue where the Circle crosseth the pricked lyne of one eight part of Scapus deuide in 4 parts vpon the side of y<seg rend="sup">e</seg> said Circle, and drawing lines straight from side to side of the said Circle the lines are broug<g ref="char:EOLhyphen"/>ht vp to Tenia for his Entasis,</p>
+                  <p>This description of Tuscana hath the iust proportion in all parts which the Romans and Venetians vse▪</p>
+               </figure>
+            </p>
+         </div>
+         <div type="architectural_order">
+            <pb facs="tcp:97605:5"/>
+            <pb facs="tcp:97605:5"/>
+            <p>
+               <figure>
+                  <head>Dorick</head>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in the Doric style.</figDesc>
+                  </figure>
+                  <p>The whole height of this Pillar deuide in 8 parts as you may see on the left side; giue 2 of those parts for the height of Stilobata, those 2 parts deuide in 3 other parts, as ap<g ref="char:EOLhyphen"/>pears on the right side of Stilobata; 1 of those parts is for the thicknesse of Scapus, and 7 s<g ref="char:EOLhyphen"/>uch parts shall be the height of y<seg rend="sup">e</seg> said pill<g ref="char:EOLhyphen"/>ar with Scapi Cimatiam and Capitall, &amp; and so Scapus with Stilobata consisteth of 10, even parts, the thicknesse of Scapus deuide in 4 parts, marked with a ✚, 2 of these being ioy▪ with Stilobata maketh the bredth of 6. euen par<g ref="char:EOLhyphen"/>ts 2 such other Ioyned to Stilobata, maketh the whole bredth 8 parts</p>
+                  <p>The height of Stilobata on y<seg rend="sup">e</seg> left side, devide in 7 parts, giue 1 to the vpper Cimatium, ano<g ref="char:EOLhyphen"/>ther to Basis Cimatium of the other 5 parts, a square being made in y<seg rend="sup">e</seg> bredth of Stilo<g ref="char:EOLhyphen"/>bata, deuid Basis Cimatium on the right si<g ref="char:EOLhyphen"/>de in 2 parts, giue 1 to Plinthus; devide y<seg rend="sup">e</seg> oth<g ref="char:EOLhyphen"/>er in 3 parts, giue Torus 2 and 1 to Regula, Basis Cimatium on the left side deuide in 2 p<g ref="char:EOLhyphen"/>arts, giue 1 to Plinthus, the other deuide in 2 parts, giue 1 to the lower Torus; deuide the other in 3 parts, giue 2 to y<seg rend="sup">e</seg> vpper Torus and 1 to Regula, the Proiectura may be m<g ref="char:EOLhyphen"/>ade squa; the Proiectura of both the Cimati<g ref="char:EOLhyphen"/>um Containeth the 6<seg rend="sup">th</seg> part of y<seg rend="sup">e</seg> bredth of St<g ref="char:EOLhyphen"/>ilobata, Stilobata Cimatium on the right si<g ref="char:EOLhyphen"/>de, deuide in 5 parts, giue 1 to Astragulus, 2 for Lisis, y<seg rend="sup">e</seg> other 2 to Plinthus,</p>
+                  <p>Stilobata Cimativm on y<seg rend="sup">e</seg> left side deuide in 4 parts, wherof 1, is for Astragulus, 2 for Lisis the last for Plinthus,</p>
+                  <p>Scapi Cimatium standing vpon Stilobata being one Modulus, deuid it in 3 parts, giue one to Plinthus, the 2 other deuide in 4 parts, giue 1 to the higher Torus, deuide y<seg rend="sup">e</seg> 3 parts in 2, giue 1 to the lower Torus, the other deuide in 7, one is for y<seg rend="sup">e</seg> lower Regula, another for the higher Regula, the 5 remaining giue troChilus the Regula of Scapus is made of the 28 part thereof, his Proiectura is square the Contractu<g ref="char:EOLhyphen"/>ra of Scapus is spoken of in the Tuscane,</p>
+                  <p>y<seg rend="sup">e</seg> Capitall standing on the top of Scapus, being the same Modulus of Scapi Cimatium on y<seg rend="sup">e</seg> left side, deuide in 3 parts, giue 1 to Zophorus, 2 to Echinus, the third to Quadra, y<seg rend="sup">e</seg> halfe to Zophorus, giue Tenia, or top of Scapus; the lower 3 parts of Echinus shall be for Anulus
+<pb facs="tcp:97605:6"/>
+                     <pb facs="tcp:97605:6"/> In like man̄er y<seg rend="sup">e</seg> third part of Quadra giue Sima &amp; Regula, so that euery Proiectura may she<g ref="char:EOLhyphen"/>w it selfe, Epistilium standing vpon y<seg rend="sup">e</seg> Capi<g ref="char:EOLhyphen"/>tall being the same Modulus, divde in 7 part<seg rend="sup">s</seg> on the left side giue 1 to Tenia, and is fitting e<g ref="char:EOLhyphen"/>ver as much as y<seg rend="sup">e</seg> Contractura of Scapus,</p>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in the Doric style.</figDesc>
+                  </figure>
+                  <p>Zophorus standing vpon Epistilium, contain<g ref="char:EOLhyphen"/>eth of 3 such parts as Epistilium hath 2 one of those 3 parts of Zophorus diuide in 3. giue 1 of those to Regula aboue the Trigliphus, which m<g ref="char:EOLhyphen"/>ay be made after this manner, diuide the height fr<g ref="char:EOLunhyphen"/>om Epistilum to y<seg rend="sup">e</seg> higher Regula afore said in 3 parts; 2 of those parts shall be y<seg rend="sup">e</seg> bredth of Tri<g ref="char:EOLhyphen"/>gliphus, diuide 1 of these in 6 giue 1 to Facia 2 to plinthus, 2 to Simicanolicola, y<seg rend="sup">e</seg> thicknesse is expressed in y<seg rend="sup">e</seg> figure marked with 0/x vnde<seg rend="sup">r</seg> Trigliphus, there are 6 Gutta, the bredth of these being y<seg rend="sup">e</seg> sixt part of Epistilium; the Re<g ref="char:EOLhyphen"/>gula from whence they hang, is the 4<seg rend="sup">th</seg> part of one Gutta <hi>Coronix</hi> standing vpon Zophorus, is y<seg rend="sup">e</seg> same h<g ref="char:EOLunhyphen"/>eight of Epistilium, which divide in 2 pa<g ref="char:EOLhyphen"/>rts▪ diuide 1 of those in 4 giue 1 to y<seg rend="sup">e</seg> lower Sima, 2 to Coronia, y<seg rend="sup">e</seg> last 4 part to y<seg rend="sup">e</seg> Sima a<g ref="char:EOLhyphen"/>boue Coronix the other of those parts giue the great Sima, which divide in 7 give 1 to Regula aboue Sima, the measures on y<seg rend="sup">e</seg> right side from the top of y<seg rend="sup">e</seg> Capitall to y<seg rend="sup">e</seg> highest part of Trabeati<g ref="char:EOLhyphen"/>ones, may be thus dispatched diuide Episti<g ref="char:EOLhyphen"/>lium in 3 parts, 4 such parts giue Zophorus also 4 to Coronix, so that Epistilium Zophorus and Coronix Containe<seg rend="sup">s</seg> of 11 parts,</p>
+                  <p>Zophorus diuide in 10 parts, give 1 to Regu<g ref="char:EOLhyphen"/>la aboue y<seg rend="sup">e</seg> Trigliphus, the height of Coronix divide in 9 parts, giue 2 to y<seg rend="sup">e</seg> two Facia, one to Echinus, 2 to Mutili, 2 to Corona, and 2 to Sima, the Mutili diuide in 3 parts, giue 1 to the small Sima aboue Mutili, also 1 to Sima aboue Corona the 2 lower parts giuen to Facia diuide in 6, giue 2 to y<seg rend="sup">e</seg> lower Facia, and 3 to y<seg rend="sup">e</seg> vpp<g ref="char:EOLhyphen"/>er Facia▪ the last to Regula vnder Echinus,</p>
+                  <p>Mutiliis made after this manner, diuide Ech<g ref="char:EOLhyphen"/>inus in 6 parts from y<seg rend="sup">e</seg> middle of the Collumne to y<seg rend="sup">e</seg> outward part of the Capitall, giue 2 of those parts to Mutilus, and 3 such parts between<seg rend="sup">e</seg> the Mutilus. all the other parts be made square if you would round y<seg rend="sup">e</seg> Collumne to make 24 Canalicolis you must make them in that ma<g ref="char:EOLhyphen"/>nner set downe in the Icnographia,</p>
+               </figure>
+            </p>
+         </div>
+         <div type="architectural_order">
+            <pb facs="tcp:97605:7"/>
+            <pb facs="tcp:97605:7"/>
+            <p>
+               <figure>
+                  <head>Ionick y<seg rend="sup">e</seg> 1</head>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in an Ionic style.</figDesc>
+                  </figure>
+                  <p>The height of this pillar diuide in 7 parts, as appeares on the left side diuide one of those parts in 22, which is the bredth of y<seg rend="sup">e</seg> lower Plinthus, giue 16 of those parts to y<seg rend="sup">e</seg> thicknes of Scapus, the other sixe for the Proiectura of Basis Cimatium, 3 parts on either side,</p>
+                  <p>The height of Scapus, with his Cimatium and Capitall, containes 8 Diameters, a<seg rend="sup">s</seg> you may obserue on the right side,</p>
+                  <p>Basis being a Modulus of Scapus, diuide in 3 parts, giue 1 of those parts to Plinthus y<seg rend="sup">e</seg> other 12 parts diuide in 7, giue 3 of those to y<seg rend="sup">e</seg> vpper Torus, the 4 remaini<g ref="char:EOLhyphen"/>ng diuide in 8, giue 2 of those parts to y<seg rend="sup">e</seg> double Astragulus in the middle, halfe 1. of those parts for Regula, and the rest to Trochilus, as appeareth on the right side, marked with 3,</p>
+                  <p>The Regula of the pillar being put to Torus, is the 24 part of Scapus, and y<seg rend="sup">e</seg> Contractura of Scapus is the 12 part, as in the ground plat of Simatium is set downe,</p>
+                  <p>The Capitall you may see moore at large here after, the Contractura of Scapus is m<g ref="char:EOLhyphen"/>ade in this manner; diuide the pillar fr<g ref="char:EOLhyphen"/>om Basis Cimatium vnto Tenia in 6 parts whereof 2 makes the third part where you begin Contractura; vpon the which lyne make a halfe Circle, and obserue wh<g ref="char:EOLhyphen"/>ere that Circle cutteth the 12 part of Sc<g ref="char:EOLhyphen"/>apus diuide aboue the bowe thereof wi<g ref="char:EOLhyphen"/>thin that twelue part in foure drawing lines from side to side of the said Circle as apeareth; these lines being made for Contractura, and drawne to every of these parts before diuided, this Pillar is broken perfectly,</p>
+                  <p>Epistilium standing vpon the Capitall, being the same Modulus of Scapus Cimatium, d<g ref="char:EOLhyphen"/>euide in 7 parts; giue 1 part to Sima, whose third part maketh Regula aboue Sima. the sixe remaining diuide in 12, giue 5 of those p<g ref="char:EOLhyphen"/>arts
+<pb facs="tcp:97605:8"/>
+                     <pb facs="tcp:97605:8"/> to the higher Facia, giue 4 to the middle Facia, the 3 last to y<seg rend="sup">e</seg> lower Fa<g ref="char:EOLhyphen"/>cia, as appeares in the figure marked with a ✚,</p>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in an Ionic style.</figDesc>
+                  </figure>
+                  <p>Zophorus standing vpon Epistilium of the same Modulus, diuide in 10 parts giue 1 to Sima vnder Dentilium, and 3 parts to Regula aboue Sima, being deuided on the right side,</p>
+                  <p>Denticuly is of the same height of the middle Facia, marked with a ✚, and his Proiectura asmuch, which diuide in sixe parts appearing in the Quad<g ref="char:EOLhyphen"/>rangle, giue 3 vnto his bredth, y<seg rend="sup">e</seg> other 2 makes Denticuly: which Denticu<g ref="char:EOLhyphen"/>ly diuide in 6, giue 1 of those to Sima, and his 3 parts maketh Regula abo<g ref="char:EOLhyphen"/>ue Sima</p>
+                  <p>Corona of the same height marked with the ✚, and his third part for Sim, Coronix being the highest part of the Collumne of the same me<g ref="char:EOLhyphen"/>asure marked with a ✚, diuide in 8 parts, giue 1 part to Regula aboue Si<g ref="char:EOLhyphen"/>ma, the other 7 for Sima; if you ple<g ref="char:EOLhyphen"/>ase to garnish the Pillar with Canalic<g ref="char:EOLhyphen"/>ulus, diude the Circumference into 24 parts, the fift of one such part ma<g ref="char:EOLhyphen"/>keth Stria and the other 4 Canaliculus,</p>
+                  <p>This is the iust measure and proportion of this Pillar, which the most excellent Ar<g ref="char:EOLunhyphen"/>chitecture, Marcus Vitruvius used at Rome and Corinth.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="architectural_order">
+            <pb facs="tcp:97605:9"/>
+            <pb facs="tcp:97605:9"/>
+            <p>
+               <figure>
+                  <head>Ionick y<seg rend="sup">e</seg> 2.</head>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in an Ionic style.</figDesc>
+                  </figure>
+                  <p>The Ionick made with Stilobata, dev<g ref="char:EOLhyphen"/>ide the whole height into 14 parts, as you may see on the left side, of 3 parts make Stilobata, devide those 3 parts in to 8 as appears on the right side, giue one part to the lower Cimativm, and 1 part to the higher Cimativm of Stilo<g ref="char:EOLhyphen"/>bata, the 6 parts remaining are for y<seg rend="sup">e</seg> height of Stilobata, and 4 for his bredth the second Cimatium on the right side is made after this manner: Basis Cim<g ref="char:EOLhyphen"/>ativm devide in 3 parts, giue 1 of those parts to Plinthus, 1 other to Sima: which devide in 6 parts, give Regula vnder Sima one of those parts, Regvla above Cima an<g ref="char:EOLhyphen"/>other part, the other 3 part devide in 2. give 1 of those parts to Torus, the 2 to trochilus: the third part of Torus ma<g ref="char:EOLhyphen"/>keth the Regvla vnder him; their Proie<g ref="char:EOLhyphen"/>ctura being the sixt part Stilobata, Stilobata Cimatium on the right side devide in 2 parts; the second deuide in 3 parts, giue 2 of those parts to Fac<g ref="char:EOLhyphen"/>ia, and the third maketh Sima, the 3 part of Sima maketh Regula aboue Sima; the first part deuide in 4 giue 1 to Reg<g ref="char:EOLhyphen"/>vla vnder the lower Sima; y<seg rend="sup">e</seg> other 3 de<g ref="char:EOLhyphen"/>vide in 6 parts, give 1 to Regula vnd<g ref="char:EOLhyphen"/>er Facia y<seg rend="sup">e</seg> rest give Sima whose Proiectu is like Basis Cimatium on, the left side, devide in three parts, give 1 to Plinthus. the other 2 deuide in 5. give 3 to Sima, and 2 for Tor<g ref="char:EOLhyphen"/>rus, the lower 6<seg rend="sup">th</seg> part of Sima maketh Regu<g ref="char:EOLhyphen"/>la, and the higher third part of Torus is Regula, whose Proiectura and also Stilobata Cimativm, is on the left side as afore said,</p>
+                  <p>Scapi Cimatium, devide the bredth of Stilobata in 22 parts, 16 of those parts gi<g ref="char:EOLhyphen"/>the thicknes of Scapus; the 6 other parts gi<g ref="char:EOLhyphen"/>ve for the Proiectura of Scapi Cimatiu<seg rend="sup">m</seg>, being 3 on each side; and giue 8 of those parts for y<seg rend="sup">e</seg> whole height of Scapi Cim<g ref="char:EOLhyphen"/>ativm. which 8 devide in 3, giue 1 part to Plinthus▪ and the 2 remaining, devide in 3 give the last 3<seg rend="sup">d</seg> part to Torus, devi<g ref="char:EOLhyphen"/>de the other 2 parts into 12 giue 2 of those parts to the middle Astragulus, and 1 to Regvla vnder Torus, and halfe one of those parts makes Regula aboue Astr<g ref="char:EOLhyphen"/>agulus;
+<pb facs="tcp:97605:10"/>
+                     <pb facs="tcp:97605:10"/> the Regula vnder Astragul<g ref="char:EOLhyphen"/>us containeth 1 part, the Regula above Plinthus halfe a part: the rest for the 2. Trochilus appearing by the letter H.</p>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in an Ionic style.</figDesc>
+                  </figure>
+                  <p>The Contractura of Scapus, is shewed in the first Ionick, and the Capitall, you m<g ref="char:EOLhyphen"/>ay see finished in y<seg rend="sup">e</seg> great Capitall here after, whose height containes 8 Diameters▪ as ap<g ref="char:EOLhyphen"/>pears on the right side, Epistilium, Zopho<g ref="char:EOLhyphen"/>rus &amp; Coronix standing vpon the Capitall, whose height is 2 Diameters, of the 8 afore<g ref="char:EOLunhyphen"/>said; so the pillar with all his ornaments containeth of 10 Diameters, devide those 2 Diameters into 10 parts, as you may see on the right side, give 3 to Epistilium, 3 to Zophorus, and y<seg rend="sup">e</seg> other 4 to the great Trabeationes,</p>
+                  <p>Those 3 parts given Epistilium devide in 6, giue 1 part to Sima, whose third part give Regvla aboue Sima: the other 5 parts dev<g ref="char:EOLhyphen"/>ide in 12 giue 3 to the lower Facia giue 4 to y<seg rend="sup">e</seg> middle Facia &amp; 5 to the third Facia; Zopho<g ref="char:EOLhyphen"/>rus as aforesaid, and is Eutasis taken from the tr<g ref="char:EOLhyphen"/>iangle, as you may see in the figure: Coronix consisteth of 4 parts, deuided in 6 give the first to Denticulus, whose 4<seg rend="sup">th</seg> part maketh Sima vnder Denticulus, y<seg rend="sup">e</seg> second giue Echinus whose 4 part maketh Regula ynder Echinus, &amp; 2 pa<g ref="char:EOLhyphen"/>rts for Mutili, whose fift part maketh Sima ab<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ve Mutili, being so high as y<seg rend="sup">e</seg> bredth: giue 1 of those parts to Corona, whose 3 part maketh Si<g ref="char:EOLhyphen"/>ma aboue Corona y<seg rend="sup">e</seg> last 6<seg rend="sup">th</seg> part giue the higher Sima, whose 6<seg rend="sup">th</seg> part maketh Regula; the Proiect<g ref="char:EOLhyphen"/>ura of Coronix is equall to his height,</p>
+                  <p>The measures on the left side, for the great Trabe<g ref="char:EOLhyphen"/>ationes are thus devided; the 4 parts of Coro<g ref="char:EOLhyphen"/>nix afore said, devide in a. 11 parts, giue 1. to Si<g ref="char:EOLhyphen"/>ma, whose third part maketh Regula above him; giue 3 parts to Denticuly &amp; Echinus the 4<seg rend="sup">th</seg> part of Denticuly, giue Regula vnder E<g ref="char:EOLunhyphen"/>chinus; and y<seg rend="sup">e</seg> 7 part of Echinus makes the Reg<g ref="char:EOLhyphen"/>ula vnder Mutili; giue 3 of those parts to Mu<g ref="char:EOLhyphen"/>tili, and 2 for Corona, y<seg rend="sup">e</seg> last 2 giue the high<g ref="char:EOLhyphen"/>er Sima, which 2 parts devide in 6 giue 1 to Astragulus, 3 to Sima, the 2 last to Abacus; the Proiectura of the Mutili is twice his heig<g ref="char:EOLhyphen"/>ht, whose 5 part maketh Sima over himselfe &amp; may be made hollow as you may see in the figure Scapus is garnished with 24</p>
+               </figure>
+            </p>
+         </div>
+         <div type="architectural_order">
+            <pb facs="tcp:97605:11"/>
+            <pb facs="tcp:97605:11"/>
+            <p>
+               <figure>
+                  <head>Corinthian y<seg rend="sup">e</seg> 1.</head>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in a Corinthian style.</figDesc>
+                  </figure>
+                  <p>The whole height of this Pillar diuide in 8 parts, y<seg rend="sup">e</seg> fift part of the vpper 8 part being taken away, all the measures may be seene in the figure on y<seg rend="sup">e</seg> left side,</p>
+                  <p>the first 8<seg rend="sup">th</seg> part marked with the letters A.B. giue for the bredth of Plinthus; wh<g ref="char:EOLhyphen"/>ich divide in 22 parts, whereof giue 16 of those parts to y<seg rend="sup">e</seg> thicknes of Scapus, and 8 of those parts for the Modulus of Basis Cima<g ref="char:EOLhyphen"/>tium, the rest allow for y<seg rend="sup">e</seg> Proiectura wh<g ref="char:EOLhyphen"/>ich is 3 of them parts on each side, as appear<g ref="char:EOLhyphen"/>eth, the Basis Cimatium, with Scapus &amp; his Capitall, must be 9 Diameters in height, as you may see in the figure on the left side, the Basis Cimatium being a Modulus of Scapus. diuide in 4 parts giue the first p<g ref="char:EOLhyphen"/>art to plinthus; y<seg rend="sup">e</seg> 3 parts diuide in 5, giue 3 of those parts to y<seg rend="sup">e</seg> higher Torus, but y<seg rend="sup">e</seg> lo<g ref="char:EOLhyphen"/>wer Torus is one fourth part more of y<seg rend="sup">e</seg> 5 higher then the Vp̄er Torus, the space bet<g ref="char:EOLhyphen"/>weene y<seg rend="sup">e</seg> two Torus, diuide in 12, giue 2 of those parts to the two Astrgulus, in y<seg rend="sup">e</seg> mi<g ref="char:EOLhyphen"/>ddle, the 3 part of one 12 part makes Regu<g ref="char:EOLhyphen"/>la vnder y<seg rend="sup">e</seg> higher Torus, and one halfe part, giue Regula aboue Astragulus, and the Regula Vnder Astragulus is equall to y<seg rend="sup">e</seg> square, but Regula aboue the lower Toru<seg rend="sup">s</seg> is y<seg rend="sup">e</seg> 2 third parts of one 12 part, the rest remaining maketh y<seg rend="sup">e</seg> Vpper and lower Trochilus, but Regula aboue the higher Torus▪ is made of y<seg rend="sup">e</seg> 24. part of Scapus and y<seg rend="sup">e</seg> 12 part is for the Contractura of Scapus the Proiectura of these divisions is marked with y<seg rend="sup">e</seg> letter R,</p>
+                  <p>The Capitall placed on y<seg rend="sup">e</seg> top of Scapus, bei<g ref="char:EOLhyphen"/>ng one Diameter in hight, y<seg rend="sup">e</seg> said Diameter divide in 7, giue one of those parts to Abacus his Proiectura being to y<seg rend="sup">e</seg> Basse, the ground plot of y<seg rend="sup">e</seg> Capitall, the manner of his leaues &amp; Voluta, you may see in the great Capitall following, in y<seg rend="sup">e</seg> end of Scapus, Tenia ha<g ref="char:EOLhyphen"/>th y<seg rend="sup">e</seg> 12 part of his height &amp; Proiectura, his third part giue to his Regula, the Co<g ref="char:EOLhyphen"/>ntractura of this Pillar is made after the first Ionick. but his Canaliculus in y<seg rend="sup">e</seg> maner of the last Ionick; the first third part are fil<g ref="char:EOLhyphen"/>led with Baculus, as appears in y<seg rend="sup">e</seg> figure, Epistilium standing vpon the Capitall, being one Modulus in height, whose 7 p<g ref="char:EOLhyphen"/>art giue to Sima; divide y<seg rend="sup">t</seg> 7 into 3, giue 1, to Regula; 2 to Sima; diuide y<seg rend="sup">e</seg>
+                     <pb facs="tcp:97605:12"/>
+                     <pb facs="tcp:97605:12"/> y<seg rend="sup">e</seg> other 6 parts into 12, whereof giue 3 to the lower Facia, 4 to the middle Fa<g ref="char:EOLhyphen"/>cia, and 5 to y<seg rend="sup">e</seg> vpper Facia, the 8 part of y<seg rend="sup">e</seg> vpper Facia maketh Astragulus vnder Facia, also the 8 part of mid Facia maketh Astragulus vnder him selfe as you may see in y<seg rend="sup">e</seg> figure ma<g ref="char:EOLhyphen"/>rked With ✚; Zophorus followeth y<seg rend="sup">e</seg> height of Epistilium, being divided in 4 parts, 5 such parts is the height of the same Zophorus, which diuide in 8 parts aboue Zophorus, giue one such part to Sima. whose third part maketh Regula aboue Sima, Denticulus being of the same measure as the middle Facia marked with a ✚ his 7 part maketh Regula aboue Denticulus, and his Pro<g ref="char:EOLhyphen"/>iectura being square there manner of opening is shewed in the Ionick,</p>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in a Corinthian style.</figDesc>
+                  </figure>
+                  <p>Echinus vpon Denticulus whose m<g ref="char:EOLhyphen"/>easure is the same of y<seg rend="sup">e</seg> lower Facia mark-with y<seg rend="sup">e</seg> letter O, the Corona vpon Echi being the same measure of the middle Facia deuide into 3 parts, giue one to Sima whose third part maketh his Regula ab<g ref="char:EOLhyphen"/>oue Sima; the great Sima of Trabeatio<g ref="char:EOLhyphen"/>nes equall to y<seg rend="sup">e</seg> middle Facia, marked w<g ref="char:EOLhyphen"/>ith a ✚, diuide into 8, giue 1 of those parts to Regula aboue Sima, his Proiectura being square.</p>
+                  <p>This is y<seg rend="sup">e</seg> iust measure of this Pillar, Which the ancient Architects vsed at Cor<g ref="char:EOLunhyphen"/>inthia, at Rome, at Venice and other places,</p>
+                  <p>There are other Capitalls, which are put to these Collumnes of divers sorts, which doe take beginning from <hi>Corinthia Ionica, and Dorica,</hi>
+                  </p>
+               </figure>
+            </p>
+         </div>
+         <div type="architectural_order">
+            <pb facs="tcp:97605:13"/>
+            <pb facs="tcp:97605:13"/>
+            <p>
+               <figure>
+                  <head>Corinthian the second māner With Stilobata,</head>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in a Corinthian style.</figDesc>
+                  </figure>
+                  <p>The proportion of this Collumne is like vnto the former but it seemeth stron<g ref="char:EOLhyphen"/>ger &amp; makes a fairer shew, the whole heig<g ref="char:EOLhyphen"/>ht must bee deuided into 9 parts as they appeare on the left side giue two parts to Stilobata, those 2 devide into 9. as you may obserue them on the left side of Stilobata Cimatium. the other 7 parts devide into 5 giue 3 for the bre<g ref="char:EOLhyphen"/>dth of Stilobata. which bredth deuide into 6 parts giue 4 of them parts for the Dia<g ref="char:EOLhyphen"/>meter of Scapus. the 2 other parts are for the proiectur or standing forth: and 2 such parts giue for the proiectura of St<g ref="char:EOLhyphen"/>ilobata Cimatium or standing soote of y<seg rend="sup">e</seg> same. one of the 9 parts aforesaid giue to Basis Cimatium, which deuide into 5 gi<g ref="char:EOLhyphen"/>ue 2 of the said parts to Plinthus, the remainder deuide into 4, giue 1 part to y<seg rend="sup">e</seg> lower Torus, 2 other to Cima, of his 5<seg rend="sup">th</seg> part make Regula aboue Torus the last to Astrgulus, which 3<seg rend="sup">d</seg> part makes Re<g ref="char:EOLhyphen"/>gula the Proiectura is as aforesaid, in the right side you may see,</p>
+                  <p>The Stilobata Cimatium deuide into 2 parts. the first for Facia with Sima being his third part, likewise the 3<seg rend="sup">d</seg> part of Sima m<g ref="char:EOLhyphen"/>aketh Regula, the other part devide into 4, giue 1 to the lower Sima. the other 3 d<g ref="char:EOLhyphen"/>evide in 2, giue 1 part to Echinus, the other to Facia, whose fourth part makes Reg<g ref="char:EOLhyphen"/>ula vnder Echinus, his Proiectura, being the same as Stilobata, obserue the figure,</p>
+                  <p>Scapus with his Scapi Cimatium and Capitall. being 9 Diameters in height she<g ref="char:EOLhyphen"/>wed on the left side. one Modell of thos<g ref="char:EOLhyphen"/>e allowe for Scapi Cimatium. whose m<g ref="char:EOLhyphen"/>easure is shewed in the first Corinth<g ref="char:EOLhyphen"/>ian pillar marked. R.</p>
+                  <p>The Contractura of the pillar and y<seg rend="sup">e</seg> and the measure of Tenia hath bin a<g ref="char:EOLhyphen"/>fore taught.</p>
+                  <p>The Capitall is described at large in the great Capitall following.</p>
+                  <pb facs="tcp:97605:14"/>
+                  <pb facs="tcp:97605:14"/>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in a Corinthian style.</figDesc>
+                  </figure>
+                  <p>The Pillar may haue Baculus, as the former Corinthian; or Ionick with Canaticulus, Epistilium, Zophor<g ref="char:EOLhyphen"/>us, and Coronix, placed on the top of the Capitall, being the fourth part of the height of Scapus shew<g ref="char:EOLhyphen"/>ed on the right side. deuide the sai<g ref="char:EOLunhyphen"/>d part into 10, giue 3 to Epistilium; whose measure is before receited in the first Corinthian: other 3 parts to Zophorus, the 4. to Coronix: which 4. devide into 9 giue 1 part to Sima a<g ref="char:EOLhyphen"/>boue Zophorus. 2 to Echinus. 2 make<seg rend="sup">s</seg> Mutili. 2 for Corona. and 2 for the vper Sima: deuide Echinus into 7 parts giue 2 to both Regulas. the fourth. part of Mutili. maketh the lesser S<g ref="char:EOLhyphen"/>ima ouer the same and the fourth part of the highest Sima maketh the sm<g ref="char:EOLhyphen"/>all Sima aboue Corona, also the sixt part of the greatest Sima, maketh the Vpper Re<g ref="char:EOLhyphen"/>gula, the Prolectura of Coronix may be square. the Mutili must be as broad as they are in height and as much distance as they hang over,</p>
+                  <p>Devide Coronix into 5 parts on y<seg rend="sup">e</seg> left side, giue 1 part to Echinvs his third part maketh Regula vnder Echinus; 2 is for the Mutili, 1 for Corona, and 1 for Sima. deuide y<seg rend="sup">e</seg> Mutili into 8 parts, give 1 of those parts to the one part of Corona; whose third part maketh Sima over Corona.</p>
+                  <p>The Facia of the Mutili shall bee square in height breadth and thicknes. the distance must be so mu<g ref="char:EOLhyphen"/>ch that the square of Corona may stand betweene, the sixt part of y<seg rend="sup">e</seg> great Sima maketh Regula, the P<g ref="char:EOLhyphen"/>roiectura is afore shewed</p>
+                  <p>This Corinthian order hath just measure, it was found at Rome in the Temple called Maria Rotunda, <hi>or Panthon,</hi>
+                  </p>
+               </figure>
+            </p>
+         </div>
+         <div type="architectural_order">
+            <pb facs="tcp:97605:15"/>
+            <pb facs="tcp:97605:15"/>
+            <p>
+               <figure>
+                  <head>Composite.</head>
+                  <figure>
+                     <figDesc>diagram illustrating an architectural pillar in the Composite style.</figDesc>
+                  </figure>
+                  <p>This Pillar is Comprehended of all the r<g ref="char:EOLhyphen"/>est; and the best of ther ornaments,</p>
+                  <p>His height deuide into 13 parts as you may obseru on the right side, giue 3 to Stilobata, deuide those 3 parts in to 10: one for Basis Cimatium and 1 for Sti<g ref="char:EOLhyphen"/>lobata Cimativm, giue 4 other of th<g ref="char:EOLhyphen"/>ose parts to the breadth of Stilobata the sixt part thereof is for the Proie<g ref="char:EOLhyphen"/>ctura of the Basis, and 4 such parts for thicknes of Scapus, whose proie<g ref="char:EOLhyphen"/>ctura is equall to Stilobata, being of y<seg rend="sup">e</seg> whole 6 parts: basis Cimatium deuid into 7 parts. giue 2 vnto Plinthus, 2 to Torus, and 2 vnto Sima; which 2 p<g ref="char:EOLhyphen"/>arts deuide into 6. giue 1 to Regula ouer Sima, and 1 to Regula benea<g ref="char:EOLhyphen"/>th Sima, one of y<seg rend="sup">e</seg> 7 parts giue Tro<g ref="char:EOLhyphen"/>chilus and the last 7<seg rend="sup">th</seg> part giue Astra<g ref="char:EOLhyphen"/>gulus, whose third part maketh Re<g ref="char:EOLhyphen"/>gula beneath Astragulus; but the v<g ref="char:EOLhyphen"/>pper Regula of Stilobata, must ha<g ref="char:EOLhyphen"/>ue halfe the bredth of Astragulus: Sti<g ref="char:EOLhyphen"/>lobata Cimatium, devide into 5, gi<g ref="char:EOLhyphen"/>ue 1 to Astragulus, whose third part m<g ref="char:EOLhyphen"/>aketh Regula: two maketh Hypotrache<g ref="char:EOLhyphen"/>lium, which 2 deuide into 4, one mak<g ref="char:EOLhyphen"/>eth Regula aboue the said Hypotracheli<g ref="char:EOLhyphen"/>vm. 2 maketh Corona: deuide those 2 in<g ref="char:EOLhyphen"/>to 3. giue 1 for Sima, whose third par maketh his Regula.</p>
+                  <p>The left side of Stilobata Cimatium. devide in 7 parts. giue 1 to Astragu<g ref="char:EOLhyphen"/>lus, whose third part maketh Regula; 2 maketh HyPotrachelium, one mak<g ref="char:EOLhyphen"/>eth Echinus. and his third part mak<g ref="char:EOLhyphen"/>eth Regula beneath him, 2 parts to Co<g ref="char:EOLhyphen"/>rona, the last part to Sima, whose third part makes aboue him,</p>
+                  <p>The Proiectura of euery one must be square like Scapus standing on Stilobata, whose Diameter afore said, his height wi<g ref="char:EOLhyphen"/>th Scapi Cimatium, and Capitall are 10 Diameters as appears on the right sid<g ref="char:EOLhyphen"/>e; the Contractua of Scapus being the twelfth parts of the same: The Capi<g ref="char:EOLhyphen"/>tall and Tenia are to be of the same m<g ref="char:EOLhyphen"/>easures as the Corinthian, or Ionick,
+<pb facs="tcp:97605:16"/>
+                     <pb facs="tcp:97605:16"/> The Canaliculus or Baculus may bee do<g ref="char:EOLhyphen"/>ne in Scapus as the former Pillar shew<g ref="char:EOLhyphen"/>eth the same Diameter as is vnder Tenia. Epistilivm being the height, his parts &amp; manner of makeing you may see in the former Corinthian or on the left side of Zophorus with his Mutili doth follow Epistilium being of the same Diame<g ref="char:EOLhyphen"/>ter. which devide into 6 parts, give one part to Sima, whose third part maketh Regula above Sima, the Mutili is squa<g ref="char:EOLhyphen"/>re, and are made hollow as appeares in the figure. and the space betweene the s<g ref="char:EOLhyphen"/>qvare as you may see on the right side, Coronix of the same Diameter devid in<g ref="char:EOLhyphen"/>to 2 parts on the right side, give 1 part to Corona, the other part devide into 6. giue 1 to Echinus, 3 maketh Sima, the other 2 make Abacus: every part of the Coronix must be square, the measure on the Ieft side devide in two. the fifth part of those 2 devide into 4, giue 3. of those parts to Corona, and 1 to Sima over Corona. whose third part makes Regula aboue himselfe, the other seco<g ref="char:EOLhyphen"/>nd part deuide into 7 whereof giue 6 to great Sima, and one other part to the vpper Regula, and euery part made squar. for to make Sima, obser<g ref="char:EOLhyphen"/>ve the figures marked with the letters A. B. C. This sort of Collumne is in the Amphithiater at Rome</p>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in the Composite style.</figDesc>
+                  </figure>
+               </figure>
+            </p>
+            <pb facs="tcp:97605:17"/>
+         </div>
+         <div type="building_instructions">
+            <pb facs="tcp:97605:17"/>
+            <p>
+               <figure>
+                  <head>The maner and making of the Corinthian Capitall.</head>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in the Corinthian style.</figDesc>
+                  </figure>
+                  <p>The Basse of Scapus being made with Tenia, as it was set downe in the first Corinthian order, the Capitall one diametr in his height: which height deuide into 7 parts, giue one part to Abacus, with the flower marke<g ref="char:EOLhyphen"/>d with the letter D, the third part thereof gi<g ref="char:EOLhyphen"/>ue Torus, and the Proiectura thereof is equ<g ref="char:EOLhyphen"/>all to the outward part of Basis Stilobata: bu<g ref="char:EOLhyphen"/>t Facia vnder Abacus is halfe of y<seg rend="sup">t</seg> 7<seg rend="sup">th</seg> part a<g ref="char:EOLhyphen"/>foresaid, and doth hang ouer equall with Regula aboue the lower Torus of the Basse.</p>
+                  <p>The middle Voluta hath a Circle, or row<g ref="char:EOLhyphen"/>ling about of one part, but the corner t<g ref="char:EOLhyphen"/>urning hath 2 parts. how to make y<seg rend="sup">e</seg> leaues and Voluta, is set downe in the figure: the ly<g ref="char:EOLhyphen"/>ne brought from Abacus to Tenia, doth she<g ref="char:EOLhyphen"/>w the Proiectura of Helicis or leaues.</p>
+                  <p>In the ground plot of the Capitall, you shall make a Circle on the top, of the bignes of the Pi<g ref="char:EOLhyphen"/>llar at Tenia: without y<seg rend="sup">t</seg> Circle make another equall to Scapus at the Basse: and to that C<g ref="char:EOLhyphen"/>ircle make a square, and to that make an<g ref="char:EOLhyphen"/>other Circle hanging ouer to the Regula aboue the lower Torus aforesaid. to that Circle make a square also. which must be the square of the Capitall. cutting ouer y<seg rend="sup">e</seg> square from corner to corner two Diago<g ref="char:EOLhyphen"/>nall lynes. marked with the letter A.</p>
+                  <p>Abacus at the corners may hang ouer, to the outward square of the Basse, and the lesser ro<g ref="char:EOLhyphen"/>wles as much as you may see in the figure wi<g ref="char:EOLhyphen"/>th pricked lynes, in the compassing of Aba<g ref="char:EOLhyphen"/>cus set the foote of your compasse in the bredth of the outward square: and make a triangle, which shall cut the Circle in as gr<g ref="char:EOLhyphen"/>eat space as the flower is square: as you may see finished in the figure.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="building_instructions">
+            <p>
+               <figure>
+                  <head>How to set the Collumnes one aboue another,</head>
+                  <p>By the councell of all Architects, which haue had diuers and sundry wayes for y<seg rend="sup">e</seg> same, haue fully agreede and brought to perfection these orders called. <hi>Tuscan, Dorick, Ionick, Corinthian, and Composite,</hi> standing one aboue the other, and euery one to bee shorter by the fourth part in heigh<g ref="char:EOLhyphen"/>t and breadth, and there be distributed as in y<seg rend="sup">e</seg> Ichnographia before taught,</p>
+               </figure>
+            </p>
+         </div>
+         <div type="building_instructions">
+            <pb facs="tcp:97605:18"/>
+            <pb facs="tcp:97605:18"/>
+            <p>
+               <figure>
+                  <head>The maner of making the Ionick Capitall,</head>
+                  <figure>
+                     <figDesc>diagram engraved on copper illustrating an architectural pillar in the Ionic style.</figDesc>
+                  </figure>
+                  <p>Stilobata Cimatium being made as be<g ref="char:EOLhyphen"/>fore taught, Scapus being deminished the 6<seg rend="sup">th</seg> part of his thicknesse, halfe the br<g ref="char:EOLhyphen"/>eadth of the lower Scapus, deuide into 9, as they appeare by the figures on the top of the Capitall: devide one of the 9 parts in 2, giue one halfe part to Aba<g ref="char:EOLhyphen"/>cus, for his bredth and proiectura: giue Sima one of the 9 parts, whose proiect<g ref="char:EOLhyphen"/>vra is as much: from that part of Sima begin, and set downe the 9 parts as: they were on the top of the Capitall, in order as they appeare on the right side: Sima hauing one of them, Trochilus 2, and Echinus 2: the sixt part devide in 4 parts one of those is for Regula aboue Astragulus, one other part for Regua v<g ref="char:EOLhyphen"/>nder Astragulus: the other 2 parts make Astragulus it selfe, the last 3 parts giue for the Modulus of Voluta,</p>
+                  <p>The Proiectura of Voluta being equall with the outward part of Scapi Cimati<g ref="char:EOLhyphen"/>um, or Basse of the Pillar: being row<g ref="char:EOLhyphen"/>led or compassed about in this man<g ref="char:EOLhyphen"/>ner: in the middle of Voluta make a lit<g ref="char:EOLhyphen"/>tle round compasse, the bignesse of one of y<seg rend="sup">e</seg> 9 parts afore said: that circle deuide in<g ref="char:EOLhyphen"/>to 6 parts, and let fall a perpendiculer lyne through the middle of the said Circle: then set the foote of your Com<g ref="char:EOLhyphen"/>passe in the place where the figue 1. standeth, and turne a Circle <gap reason="illegible" resp="#oxf" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> vn<g ref="char:EOLhyphen"/>till it doth reach the perpendiculer ly<g ref="char:EOLhyphen"/>ne, remooue the foote of your Compasse a<g ref="char:EOLhyphen"/>gaine to the figure 2, makeing that you<g ref="char:EOLhyphen"/>r Center, and the other foote where you left, and turne another halfe Circle, wh<g ref="char:EOLhyphen"/>ich shall stay at the place, touching your perpendiculer lyne: thus remoouing the foote of your compasse to the place where the figures stand before your Ce<g ref="char:EOLhyphen"/>nters, you shall bring about halfe Cir<g ref="char:EOLhyphen"/>cles, Vntill you haue finished your Voluta scrole, apearing in the figure marked wi<g ref="char:EOLhyphen"/>th 7 Centers, which Voluta being so m<g ref="char:EOLhyphen"/>ade, Echinus with Astragalus may bee made square as you may see in the fi<g ref="char:EOLhyphen"/>gure marked with H, the edges of Echinus haue roundnes of the halfe Cir<g ref="char:EOLhyphen"/>cle, and deuide in 6 parts as the figure sheweth: there is added to Hypotrachelium 4 su<g ref="char:EOLhyphen"/>ch parts as be in the 9, so that y<seg rend="sup">e</seg> whole height of y<seg rend="sup">e</seg> Capitall is 13 parts and a halfe, and being in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#oxf" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </figure>
+            </p>
+         </div>
+         <div type="engraved_plate">
+            <pb facs="tcp:97605:19"/>
+            <pb facs="tcp:97605:19"/>
+            <p>
+               <figure>
+                  <head>TUSCANA 1</head>
+                  <figDesc>diagram and illustration engraved on copper of an architectural pillar in the Tuscan style.</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="engraved_plate">
+            <pb facs="tcp:97605:20"/>
+            <pb facs="tcp:97605:20"/>
+            <p>
+               <figure>
+                  <head>DORICA 2</head>
+                  <figDesc>diagram and illustration engraved on copper of an architectural pillar in the Doric style.</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="engraved_plate">
+            <pb facs="tcp:97605:21"/>
+            <pb facs="tcp:97605:21"/>
+            <p>
+               <figure>
+                  <head>IONICA 3</head>
+                  <figDesc>diagram and illustration engraved on copper of an architectural pillar in the Ionic style.</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="engraved_plate">
+            <pb facs="tcp:97605:22"/>
+            <pb facs="tcp:97605:22"/>
+            <p>
+               <figure>
+                  <head>CORINTHIA 4</head>
+                  <figDesc>diagram and illustration engraved on copper of an architectural pillar in the Corinthian style.</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="engraved_plate">
+            <pb facs="tcp:97605:23"/>
+            <pb facs="tcp:97605:23"/>
+            <p>
+               <figure>
+                  <head>COMPOSITA 5</head>
+                  <figDesc>diagram and illustration engraved on copper of an architectural pillar in the Composite style.</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="engraved_plate">
+            <pb facs="tcp:97605:24"/>
+            <pb facs="tcp:97605:24"/>
+            <p>
+               <figure>
+                  <figDesc>illustration engraved on copper of four different architectural pillars.</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
